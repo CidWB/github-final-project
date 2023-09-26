@@ -3,5 +3,5 @@ Input:
    p, principal amount
    t, time period in years
    r, annual rate of interest </br>
-Output 
+Output: 
    simple interest = p*t*r
